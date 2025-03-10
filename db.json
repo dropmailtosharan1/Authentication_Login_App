@@ -5,5 +5,107 @@
       "username": "admin",
       "password": "admin12345"
     }
+  ],
+  "accounts": [
+    {
+      "accountHolder": "Kumar",
+      "accountNumber": "ACC68612",
+      "accountType": "savings",
+      "balance": 5000,
+      "email": "kumar@gmail.com",
+      "phone": "9898989898",
+      "createdAt": "2025-03-10T09:10:32.187Z",
+      "id": 1
+    },
+    {
+      "accountHolder": "Priya",
+      "accountNumber": "ACC12345",
+      "accountType": "current",
+      "balance": 12000,
+      "email": "priya@gmail.com",
+      "phone": "9876543210",
+      "createdAt": "2025-03-09T14:20:15.300Z",
+      "id": 2
+    },
+    {
+      "accountHolder": "Ravi",
+      "accountNumber": "ACC23456",
+      "accountType": "savings",
+      "balance": 8000,
+      "email": "ravi@gmail.com",
+      "phone": "9123456789",
+      "createdAt": "2025-03-08T10:15:45.600Z",
+      "id": 3
+    },
+    {
+      "accountHolder": "Neha",
+      "accountNumber": "ACC34567",
+      "accountType": "current",
+      "balance": 15000,
+      "email": "neha@gmail.com",
+      "phone": "9988776655",
+      "createdAt": "2025-03-07T08:30:25.900Z",
+      "id": 4
+    },
+    {
+      "accountHolder": "Amit",
+      "accountNumber": "ACC45678",
+      "accountType": "savings",
+      "balance": 4500,
+      "email": "amit@gmail.com",
+      "phone": "9876567890",
+      "createdAt": "2025-03-06T12:45:35.200Z",
+      "id": 5
+    },
+    {
+      "accountHolder": "Sita",
+      "accountNumber": "ACC56789",
+      "accountType": "current",
+      "balance": 20000,
+      "email": "sita@gmail.com",
+      "phone": "8765432109",
+      "createdAt": "2025-03-05T11:25:50.600Z",
+      "id": 6
+    },
+    {
+      "accountHolder": "Rajesh",
+      "accountNumber": "ACC67890",
+      "accountType": "savings",
+      "balance": 3000,
+      "email": "rajesh@gmail.com",
+      "phone": "9543216789",
+      "createdAt": "2025-03-04T16:10:20.100Z",
+      "id": 7
+    },
+    {
+      "accountHolder": "Meena",
+      "accountNumber": "ACC78901",
+      "accountType": "current",
+      "balance": 18000,
+      "email": "meena@gmail.com",
+      "phone": "9321654780",
+      "createdAt": "2025-03-03T09:05:40.700Z",
+      "id": 8
+    },
+    {
+      "accountHolder": "Arjun",
+      "accountNumber": "ACC89012",
+      "accountType": "savings",
+      "balance": 6200,
+      "email": "arjun@gmail.com",
+      "phone": "9911223344",
+      "createdAt": "2025-03-02T15:55:15.500Z",
+      "id": 9
+    },
+    {
+      "accountHolder": "Pooja",
+      "accountNumber": "ACC90123",
+      "accountType": "current",
+      "balance": 25000,
+      "email": "pooja@gmail.com",
+      "phone": "9801234567",
+      "createdAt": "2025-03-01T07:45:30.800Z",
+      "id": 10
+    }
   ]
 }
